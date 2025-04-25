@@ -18,12 +18,12 @@ Analysis of NTSB aviation accident data (1962-2023) to identify low-risk aircraf
 
 ## Analysis
 ### Key Visualizations
-1. [Accidents by Aircraft Model] 
-2. [Trends Over Time]
-3. [Risk Factors] 
+1. Accidents by Aircraft Model
+2. Trends Over Time
+3. Risk Factor
 
 ## Conclusion
 **Recommendations**:
 1. Prioritize aircraft models with X, Y, Z features.
-2. Avoid operators with high incident rates in [category].
+2. Avoid operators with high incident rates in 
 3. Mitigate risks in [specific flight phase].
