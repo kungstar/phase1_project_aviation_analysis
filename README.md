@@ -18,9 +18,9 @@ Analysis of NTSB aviation accident data (1962-2023) to identify low-risk aircraf
 
 ## Analysis
 ### Key Visualizations
-1. ![Accidents by Aircraft Model](images/model_risk.png)  
-2. ![Trends Over Time](images/time_trends.png)  
-3. ![Risk Factors](images/factor_correlation.png)  
+1. [Accidents by Aircraft Model] 
+2. [Trends Over Time]
+3. [Risk Factors] 
 
 ## Conclusion
 **Recommendations**:
